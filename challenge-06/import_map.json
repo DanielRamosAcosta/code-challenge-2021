@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "expect": "https://deno.land/x/expect/mod.ts",
+    "monads": "https://deno.land/x/monads@v0.5.8/result/result.ts"
+  }
+}
